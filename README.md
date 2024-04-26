@@ -1,4 +1,3 @@
-Enhanced Readability:
 Generation of 3D Grape Model
 https://github.com/Qustionboy/EEEManchesterFinalYearProject
 Overview:
